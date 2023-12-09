@@ -1,0 +1,14 @@
+/Users/bartek/Projects/kpntrola/kpntrola/bin/Debug/net8.0/kpntrola
+/Users/bartek/Projects/kpntrola/kpntrola/bin/Debug/net8.0/kpntrola.deps.json
+/Users/bartek/Projects/kpntrola/kpntrola/bin/Debug/net8.0/kpntrola.runtimeconfig.json
+/Users/bartek/Projects/kpntrola/kpntrola/bin/Debug/net8.0/kpntrola.dll
+/Users/bartek/Projects/kpntrola/kpntrola/bin/Debug/net8.0/kpntrola.pdb
+/Users/bartek/Projects/kpntrola/kpntrola/obj/Debug/net8.0/kpntrola.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bartek/Projects/kpntrola/kpntrola/obj/Debug/net8.0/kpntrola.AssemblyInfoInputs.cache
+/Users/bartek/Projects/kpntrola/kpntrola/obj/Debug/net8.0/kpntrola.AssemblyInfo.cs
+/Users/bartek/Projects/kpntrola/kpntrola/obj/Debug/net8.0/kpntrola.csproj.CoreCompileInputs.cache
+/Users/bartek/Projects/kpntrola/kpntrola/obj/Debug/net8.0/kpntrola.dll
+/Users/bartek/Projects/kpntrola/kpntrola/obj/Debug/net8.0/refint/kpntrola.dll
+/Users/bartek/Projects/kpntrola/kpntrola/obj/Debug/net8.0/kpntrola.pdb
+/Users/bartek/Projects/kpntrola/kpntrola/obj/Debug/net8.0/kpntrola.genruntimeconfig.cache
+/Users/bartek/Projects/kpntrola/kpntrola/obj/Debug/net8.0/ref/kpntrola.dll
